@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+  printf("Start Problem Solving");
+  printf("24 Oct 2023");
+  return 0;
+}
